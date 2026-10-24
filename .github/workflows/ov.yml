@@ -1,0 +1,14 @@
+name: ov
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install pillow
+      - run: python dl_ov.py
+      - run: |
+          git config user.name bot; git config user.email bot@x
+          git add -A; git commit -m "overseas photos" || true; git push
