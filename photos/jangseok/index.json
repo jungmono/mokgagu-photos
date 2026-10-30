@@ -122,12 +122,57 @@
   "g": "gu1793360831517"
  },
  {
-  "sha": "0ed0192081dd",
-  "file": "0ed0192081dd.jpg",
+  "sha": "ea6980333d2f",
+  "file": "ea6980333d2f.jpg",
   "region": "익산",
   "note": "",
   "added": "2026-10-30",
   "from": "감정실",
   "g": "gj-iksan-1"
+ },
+ {
+  "sha": "f69673bbef9d",
+  "file": "f69673bbef9d.jpg",
+  "region": "고창",
+  "note": "",
+  "added": "2026-10-30",
+  "from": "감정실 확정 사례",
+  "g": "cq61bzw6nc5u2bgx4pbt9"
+ },
+ {
+  "sha": "e296319e74af",
+  "file": "e296319e74af.jpg",
+  "region": "고창",
+  "note": "",
+  "added": "2026-10-30",
+  "from": "감정실",
+  "g": "cq61bzw6nc5u2bgx4pbt9"
+ },
+ {
+  "sha": "68662b47c7c9",
+  "file": "68662b47c7c9.jpg",
+  "region": "고창",
+  "note": "",
+  "added": "2026-10-30",
+  "from": "감정실",
+  "g": "cq61bzw6nc5u2bgx4pbt9"
+ },
+ {
+  "sha": "3d1a2ac404f1",
+  "file": "3d1a2ac404f1.jpg",
+  "region": "진주",
+  "note": "",
+  "added": "2026-10-30",
+  "from": "감정실",
+  "g": "gj-jinju-2"
+ },
+ {
+  "sha": "e1399ddeecd3",
+  "file": "e1399ddeecd3.jpg",
+  "region": "강화",
+  "note": "",
+  "added": "2026-10-30",
+  "from": "감정실 확정 사례",
+  "g": "cr0arukljwyf35gmus1kc"
  }
 ]
